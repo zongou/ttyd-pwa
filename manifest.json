@@ -1,18 +1,17 @@
 {
 	"name": "ttyd",
 	"short_name": "ttyd",
-	"start_url": "/",
 	"lang": "en-US",
 	"display": "standalone",
 	"display_override": ["window-controls-overlay"],
 	"icons": [
 		{
-			"src": "code-192.png",
+			"src": "https://cdn.jsdelivr.net/gh/zongou/ttyd-pwa/code-192.png",
 			"type": "image/png",
 			"sizes": "192x192"
 		},
 		{
-			"src": "code-512.png",
+			"src": "https://cdn.jsdelivr.net/gh/zongou/ttyd-pwa/code-512.png",
 			"type": "image/png",
 			"sizes": "512x512"
 		}
